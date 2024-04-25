@@ -1,7 +1,7 @@
 # # Data Analysis using SQL and Power Bi
 ![1_jWt7QPw7x86-BmiDMm3l_w](https://github.com/code-red-Marshall/Pharmabot--LLM-chatbot/assets/82904501/c1b1f8be-53c6-4eae-933e-c2e6c24a723e)
 
-## Business Bcakground: 
+## Business Background: 
 
 AtliQ is a company that supplies computer Hardware and Peripherals. It has several clients across India and Atliq acts as the manufacturerer and supplier to these stores.
 In the dynamically growing market, the sales director of this company with regional operations in North, South, and Central India is facing challenges in obtaining accurate insights into the business. The current process involves the sales director calling regional managers for insights about sales in different phases of the year. However, these insights are verbal and lack visual representation or concrete proof, leading to potential inaccuracies or biases. The overall sales are declining, but the regional managers may not be providing a complete picture. When quantitative data is requested, the sales director is overwhelmed with numerous Excel files, making it difficult to derive meaningful insights.
