@@ -9,6 +9,9 @@ In the dynamically growing market, the sales director of this company with regio
 To address this issue, the company plans to implement a solution that visualizes the sales scenario in a simplistic manner. The proposed solution is a live dashboard in Power BI that provides simple, understandable, and digestible insights. This will enable the sales director to have a clear and accurate understanding of the sales performance in different regions and phases of the year, facilitating informed decision-making.
 
 ## This project has been done using the AIMS Grid.
+
+![1694866598041](https://github.com/code-red-Marshall/Pharmabot--LLM-chatbot/assets/82904501/9d6d19d1-3aea-4c02-9a36-7e77d61ddefb)
+
 Puprose: 
 To unlock insights that are not visible before for the sales team for decision support and automate them to reduce manual time spent in data gathering.
 
@@ -32,7 +35,6 @@ Inaccurate and unreliable sales insights from regional managers in North, South,
 ## Economic Success Criteria: 
 Improved decision amking proving 10% cost savings of total spent.
 
-
 ## Data Modelling: 
 
 We have a star schema here:
@@ -40,7 +42,20 @@ We have a star schema here:
 ![Screenshot 2024-04-26 011011](https://github.com/code-red-Marshall/Pharmabot--LLM-chatbot/assets/82904501/a80ace7e-aaf6-444d-be8f-6926c9595e57)
 
 ## Setup
+- Load the db_Dumb in MySql. This is the entire database along with the records.
+- Perform data analysis in MySQL.
+- ETL and Data Cleaning in Power Query in Power Bi.
+- Create a live visualization dashboard in Power Bi.
 
-Open the 
+## Usage
+- Clone the repository.
+- open salesdash power bi file to view the dashboard and play with it.
+
+## The Dashboard
+
+![Screenshot 2024-04-26 012250](https://github.com/code-red-Marshall/Pharmabot--LLM-chatbot/assets/82904501/dbd979a7-8260-4ebc-9224-93885e904fca)
+
+## Contributing
+Feel free to fork this repository, make changes or improvements, and create pull requests. We appreciate your contributions!
 
 
