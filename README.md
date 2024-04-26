@@ -55,6 +55,9 @@ We have a star schema here:
 
 ![Screenshot 2024-04-26 012250](https://github.com/code-red-Marshall/Pharmabot--LLM-chatbot/assets/82904501/dbd979a7-8260-4ebc-9224-93885e904fca)
 
+## Review and Refine:
+Review the dashboard with you and refine it based on your feedback to ensure it meets your needs.
+
 ## Contributing
 Feel free to fork this repository, make changes or improvements, and create pull requests. We appreciate your contributions!
 
